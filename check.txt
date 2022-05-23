@@ -13,3 +13,5 @@ git add .
 git commit -m ".."
 git remote ...... nơi mới tạo ấy
 git push origin master  
+
+cách pull về lỗi: git reset --hard
