@@ -1,1 +1,5 @@
-noname134
+git status : để xem trạng thái của git
+
+git add .
+git commit -m "viet nhuwng thu mik muoosn de commit"
+git push origin main
