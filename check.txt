@@ -1,3 +1,5 @@
+để lấy file trên github về : git clone link_http
+
 git status : để xem trạng thái của git
 
 git add .
