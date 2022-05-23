@@ -5,3 +5,11 @@ git status : để xem trạng thái của git
 git add .
 git commit -m "viet nhuwng thu mik muoosn de commit"
 git push origin main
+
+để đẩy từ pc lên: 
+git init
+git status
+git add .
+git commit -m ".."
+git remote ...... nơi mới tạo ấy
+git push origin master 
