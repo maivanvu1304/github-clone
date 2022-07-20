@@ -15,3 +15,5 @@ git remote add origin http// ...... nơi mới tạo ấy
 git push origin master  
 
 cách pull về lỗi: git reset --hard
+
+CÁCH TẠO 1 SSH KEY để clone lên github: mở git bash :ssh-keygen
