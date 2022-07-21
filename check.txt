@@ -19,3 +19,6 @@ cách pull về lỗi: git reset --hard
 CÁCH TẠO 1 SSH KEY để clone lên github: mở git bash :ssh-keygen
 git branch -M 'main': DÙNG ĐỂ CHUYỂN NHANH NẾU ĐÓ LÀ MASTER 
 git push -u origin 'main'
+
+
+NẾU MÀ: git remote -v đã có và muốn xóa đi gõ lệnh, git remote rm origin 
