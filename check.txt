@@ -17,3 +17,5 @@ git push origin master
 cách pull về lỗi: git reset --hard
 
 CÁCH TẠO 1 SSH KEY để clone lên github: mở git bash :ssh-keygen
+git branch -M 'main': DÙNG ĐỂ CHUYỂN NHANH NẾU ĐÓ LÀ MASTER 
+git push -u origin 'main'
