@@ -4,7 +4,7 @@ git add .
 git commit -m "viet nhuwng thu mik muoosn de commit"
 git push origin main
 
-hello moiw nhap tu visal code
+thay doi tren github se gap ra con flix
 để đẩy từ pc lên: 
 git init
 git status
