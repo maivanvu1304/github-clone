@@ -22,3 +22,7 @@ git push -u origin 'main'
 
 NẾU MÀ: git remote -v đã có và muốn xóa đi gõ lệnh, git remote rm origin 
 ĐỀ TẠO BRAND MƠI: git checkout -b 'tên nhanh muốn đặt tên' sau đó muốn chuyển sang nhánh đó gõ : git checkout 'nhánh cần chuyển'
+
+
+CÁC LỆNH CMD :
+start . : mở file explorer
